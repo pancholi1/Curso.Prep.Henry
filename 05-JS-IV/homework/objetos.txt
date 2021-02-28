@@ -1,0 +1,6 @@
+
+	* Objetos : es un contenedor de datos 
+	* Propiedades:las propiedades son los datos que estan almacenados en los objetos, se les puede dar un valor
+	* Métodos: son funciones guardadas en objetos por ejemplo .push
+	* Bucle `for…in` sirve para rrecorrer el objeto
+	* Notación de puntos vs notación de corchetes

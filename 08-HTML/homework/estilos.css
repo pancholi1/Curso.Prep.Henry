@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana;
+}
+
+strong{
+    text-decoration:underline;
+}
+hr{   
+    border-width:10px ;    
+}
+#inline {
+    display:inline-flex;
+}
+#inline ul {
+    font-size: 30px;
+}
+#inline ul li {
+    margin-left: 60px;
+}
+
+section{
+    margin-left: 30%;
+    
+    position: absolute;
+    bottom: -500px;
+}

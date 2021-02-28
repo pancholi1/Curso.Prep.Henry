@@ -1,0 +1,8 @@
+
+
+
+* Variables
+	* Strings: Es un bloque de texto
+	* Funciones (argumentos, `return`): una funcion esun objeto que se puede llamar cuando quieras, tiene argumentos por el cual se pasa un valor par ala funcion y tiene objetos como return que devuelve un valor hacia afuera de la funcion
+	* Declaraciones `if` es un operador que sirve para validar una accion/circunstancia
+	* Valores booleanos (`true`, `false`) se utilizan para determinar un si o un no
