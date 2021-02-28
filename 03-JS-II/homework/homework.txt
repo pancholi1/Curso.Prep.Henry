@@ -1,0 +1,11 @@
+
+
+for: se repetira el bucle hasta que la expresion dada se cumpla
+
+
+
+&& : se utiliza como un Y o (AND) y evalua dos expresiones y devuelve true si ambas expresiones son verdades
+
+|| :se utiliza como un O y devuelve true si alguna de las dos son verdadera
+
+!= es NOT, es lo contrario a cualquier expresion
